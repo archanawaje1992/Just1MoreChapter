@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Success! Your Order Is Complete
 
-You can use the [editor on GitHub](https://github.com/archanawaje1992/just1morechapter/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Congrats For Availing The Set of 100 Best Setting Ebooks. Please download the books on laptop/desktop to access your ebooks as we promised 🙂
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Set Of 100 Best Selling Ebooks (PDF) 
 
-### Markdown
+If you want to read the books online or want to download single book, please use this link:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Download Zip File
 
-```markdown
-Syntax highlighted code block
+Use this link if you want to download all books in a Zip file with just one click:
 
-# Header 1
-## Header 2
-### Header 3
+If you have any further questions, feel free to email support at just1morechapter.books@gmail.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/archanawaje1992/just1morechapter/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+We appreciate you and once again, welcome to our world!
